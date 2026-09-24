@@ -1,0 +1,23 @@
+{
+  "repo": "ds4windows-full",
+  "product": "DS4Windows Full",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "android-emulator",
+  "topics": [
+    "ds4windows",
+    "ds4windows-windows",
+    "android-emulator-desktop",
+    "how-to-install-ds4windows",
+    "ds4windows-desktop-package",
+    "ds4windows-workspace",
+    "ds4windows-pro-tools",
+    "ds4windows-suite",
+    "zentool-ds4windows",
+    "ds4windows-tool-9"
+  ],
+  "site": "zentool.art"
+}
